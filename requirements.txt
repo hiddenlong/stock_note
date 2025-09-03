@@ -1,0 +1,5 @@
+# Runtime dependencies for the stock trading UI
+PyQt6>=6.9.1
+requests>=2.31.0
+pandas>=2.2.2
+numpy>=1.26.0
